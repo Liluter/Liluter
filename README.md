@@ -1,7 +1,7 @@
-- 😃 Hi, I’m @Liluter
+- 😃 Hi, My name is Karol
 
-- 👀 I’m interested in 3D art, 3D printing, coding, construction building
-- 💻 I’m currently learning python
+- 👀 I’m interested in 3D art, 3D printing, coding, datascience.
+- 💻 I’m currently learning python and taking frontend class
 - 📫 How to reach me karolawdziewicz@gmail.com
 
 <!---
