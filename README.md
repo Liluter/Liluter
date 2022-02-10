@@ -1,7 +1,7 @@
 - 😃 Hi, My name is Karol
 
-- 👀 I’m interested in 3D art, 3D printing, coding, datascience.
-- 💻 I’m currently learning python and taking frontend class HTML CSS JavaScript
+- 👀 I’m interested in 3D art, 3D printing, coding, datascience, riding motorbike
+- 💻 I’m currently learning frontend class with HTML CSS JavaScript , and before used to learn Python
 - 📫 How to reach me karolawdziewicz@gmail.com
 
 <!---
