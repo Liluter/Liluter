@@ -17,6 +17,9 @@ Css, Html | WebPage style guide template | https://liluter.github.io/MyWebsiteSt
 
 ### Certificates:
 - Python Is Easy https://www.pirple.com/certificates/zmlkujpsev#.YWGgIJmRMXI.twitter
+- Keeping Up With the JavaScript https://www.pirple.com/certificates/8t6380xchf
+- HTML5 and CSS3  https://www.pirple.com/certificates/xyfbeyqke5
+
 <!---
 Liluter/Liluter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
