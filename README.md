@@ -36,6 +36,8 @@ States of accomlishments
 - Python DataScience Toolbox part 1 https://t.co/BCC8YaZNsG
 - Data Manipulation with Pandas https://t.co/tzzjApvRiR
 
+### 3D models portfolio
+- Thingiverse https://www.thingiverse.com/liluter/designs
 
 <!---
 Liluter/Liluter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
