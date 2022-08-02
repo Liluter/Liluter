@@ -14,6 +14,9 @@ JavaScript | Flight ticket reservation app | https://liluter.github.io/Project-W
 
 Css, Html | WebPage style guide template | https://liluter.github.io/MyWebsiteStyleGuideCC/
 
+
+### Certificates:
+- Python Is Easy https://www.pirple.com/certificates/zmlkujpsev#.YWGgIJmRMXI.twitter
 <!---
 Liluter/Liluter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
