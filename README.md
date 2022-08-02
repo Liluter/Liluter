@@ -36,6 +36,10 @@ States of accomlishments
 - Python DataScience Toolbox part 1 https://t.co/BCC8YaZNsG
 - Data Manipulation with Pandas https://t.co/tzzjApvRiR
 
+#### Codecademy
+
+- Css https://www.codecademy.com/profiles/liluter/certificates/9a5bb1fc45b4281af1fffec93b0aaf05
+
 ### 3D models portfolio
 - Thingiverse https://www.thingiverse.com/liluter/designs
 
