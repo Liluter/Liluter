@@ -32,7 +32,7 @@ Css, Html | WebPage style guide template | https://liluter.github.io/MyWebsiteSt
 States of accomlishments
 
 - Intermediate Python  https://t.co/yzSBGAj8eg
-- Python Fundamentals https://t.co/BV3TCUcpFl
+- Python Fundamentals Track https://t.co/BV3TCUcpFl
 - Python DataScience Toolbox part 1 https://t.co/BCC8YaZNsG
 - Data Manipulation with Pandas https://t.co/tzzjApvRiR
 
