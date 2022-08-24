@@ -15,7 +15,9 @@ Technology | Subject | Link
 
 React | Simple Mem service | https://liluter.github.io/mem-service-ka/
 
-JavaScript | Flight ticket reservation app | https://liluter.github.io/Project-Wsb-JavaScript/
+React , Redux, Ant Design | Seat Reservation App | https://seat-reservation-app.netlify.app/ or https://seat-reservation-liluter.herokuapp.com/
+
+JavaScript | Flight ticket reservation app |  https://liluter.github.io/Project-Wsb-JavaScript/
 
 Css, Html | WebPage style guide template | https://liluter.github.io/MyWebsiteStyleGuideCC/
 
@@ -35,6 +37,10 @@ States of accomlishments
 - Python Fundamentals Track https://t.co/BV3TCUcpFl
 - Python DataScience Toolbox part 1 https://t.co/BCC8YaZNsG
 - Data Manipulation with Pandas https://t.co/tzzjApvRiR
+
+#### Apollo Oddysey
+
+Graph Developer - Associate - https://www.apollographql.com/tutorials/certifications/ccd28577-ae5b-4011-a9d3-295a35ce84fe
 
 #### Codecademy
 
