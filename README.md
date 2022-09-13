@@ -13,13 +13,13 @@
 
 Technology | Subject | Link
 
-React | Simple Mem service | https://liluter.github.io/mem-service-ka/
-
 React , Redux, Ant Design | Seat Reservation App | https://seat-reservation-app.netlify.app/ or https://seat-reservation-liluter.herokuapp.com/
 
 JavaScript | Flight ticket reservation app |  https://liluter.github.io/Project-Wsb-JavaScript/
 
 Css, Html | WebPage style guide template | https://liluter.github.io/MyWebsiteStyleGuideCC/
+
+React | Simple Mem service | https://liluter.github.io/mem-service-ka/
 
 
 ### Certificates:
