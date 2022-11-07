@@ -24,6 +24,9 @@ React | Simple Mem service | https://liluter.github.io/mem-service-ka/
 
 ### Certificates:
 
+#### Udemy
+- Angular - The Complete Guide (2023 Edition) by Maximilain Schwarzmuller https://www.udemy.com/certificate/UC-bcc2dd22-937f-47fa-be2d-e5f90d677011/
+
 #### Pirple
 
 - Python Is Easy https://www.pirple.com/certificates/zmlkujpsev#.YWGgIJmRMXI.twitter
