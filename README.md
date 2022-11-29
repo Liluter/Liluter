@@ -13,7 +13,11 @@
 
 Technology | Subject | Link
 
-React , Redux, Ant Design | Seat Reservation App | https://seat-reservation-app.netlify.app/ or https://seat-reservation-liluter.herokuapp.com/
+Angular, Angular Material, Angulaefire, NgRx, Firebase | Course project FitnessApp https://ng-fitness-tracker-25afa.web.app/
+
+Angular, Bootstrap@3 , NgRx, Firebase | Course project Recipebook https://ng-course-recipebook-66757.web.app/
+
+React, Redux, Ant Design | Seat Reservation App | https://seat-reservation-app.netlify.app/ or https://seat-reservation-liluter.herokuapp.com/
 
 JavaScript | Flight ticket reservation app |  https://liluter.github.io/Project-Wsb-JavaScript/
 
@@ -25,6 +29,7 @@ React | Simple Mem service | https://liluter.github.io/mem-service-ka/
 ### Certificates:
 
 #### Udemy
+- Angular - Angular (Full App) with Angular Material, Angularfire & NgRx https://www.udemy.com/certificate/UC-38fbcb90-e8ea-4c11-9355-146b185cecad/
 - Angular - The Complete Guide (2023 Edition) by Maximilain Schwarzmuller https://www.udemy.com/certificate/UC-bcc2dd22-937f-47fa-be2d-e5f90d677011/
 
 #### Pirple
