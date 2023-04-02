@@ -1,6 +1,6 @@
 - 😃 Hi, My name is Karol
 
-- 👀 I’m interested in 3D design, 3D printing, coding, datascience, riding motorbike
+- 👀 I’m interested in 3D design, 3D printing, coding, riding motorbike
 - 💻 Lately accomplished Front-End developer postgraduate class with HTML CSS JavaScript in WSB Wroclaw
 - 💻 and before used to learn Python with Pirple and DataCamp platforms.
 - 📫 How to reach me :
