@@ -31,6 +31,7 @@ React | Simple Mem service | https://liluter.github.io/mem-service-ka/
 #### Udemy
 - Angular - Angular (Full App) with Angular Material, Angularfire & NgRx https://www.udemy.com/certificate/UC-38fbcb90-e8ea-4c11-9355-146b185cecad/
 - Angular - The Complete Guide (2023 Edition) by Maximilain Schwarzmuller https://www.udemy.com/certificate/UC-bcc2dd22-937f-47fa-be2d-e5f90d677011/
+- Complete Web Design: from Figma to Webflow to Freelancing by Vako Shvili https://www.udemy.com/certificate/UC-989dbe1c-fc4d-4c06-b589-c364951fb1e0/
 
 #### Pirple
 
