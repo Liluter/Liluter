@@ -13,7 +13,7 @@
 
 Technology | Subject | Link
 
-Angular, Angular Material, Angulaefire, NgRx, Firebase | Course project FitnessApp https://ng-fitness-tracker-25afa.web.app/
+Angular, Angular Material, Angularfire, NgRx, Firebase | Course project FitnessApp https://ng-fitness-tracker-25afa.web.app/
 
 Angular, Bootstrap@3 , NgRx, Firebase | Course project Recipebook https://ng-course-recipebook-66757.web.app/
 
