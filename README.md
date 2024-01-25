@@ -11,7 +11,9 @@
 
 ### Portfolio:
 
-Technology | Subject | Link
+Technology and tools| Subject | Link
+
+JavaScript OOP, Css, Html and Jira|  [Summator](https://github.com/Liluter/Summator/settings/pages) - app for easier calculations. | [repo](https://github.com/Liluter/Summator).
 
 Angular, Angular Material, Angularfire, NgRx, Firebase | Course project FitnessApp [link](https://ng-fitness-tracker-25afa.web.app/)
 
@@ -19,11 +21,9 @@ Angular, Bootstrap@3 , NgRx, Firebase | Course project Recipebook [link](https:/
 
 React, Redux, Ant Design | Seat Reservation App | [link](https://seat-reservation-app.netlify.app/)
 
-JavaScript | Flight ticket reservation app |  [link](https://liluter.github.io/Project-Wsb-JavaScript/)
+JavaScript | [Flight ticket reservation app](https://liluter.github.io/Project-Wsb-JavaScript/) | [repo](https://github.com/Liluter/Project-Wsb-JavaScript)
 
 Css, Html | WebPage style guide template | [link](https://liluter.github.io/MyWebsiteStyleGuideCC/)
-
-React | Simple Mem service | [link](https://liluter.github.io/mem-service-ka/)
 
 
 ### Certificates:
