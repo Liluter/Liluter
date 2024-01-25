@@ -1,6 +1,6 @@
 - 😃 Hi, My name is KAROL
 
--  I am interested 👀 in coding, 3D design and 3D printing, prototypingI am interested in coding, 3D design and 3D printing, prototyping. I recently completed a post-graduate 💻 Front-End developer with HTML CSS JavaScript with Angular at Merito WSB Wroclaw, after which I continue to gain front-end knowledge and build my portfolio with projects from a wide range of front-end.
+-  I am interested 👀 in coding, 3D design and 3D printing, prototyping. I recently completed a post-graduate 💻 Front-End developer with HTML CSS JavaScript with Angular at Merito WSB Wroclaw, after which I continue to gain front-end knowledge and build my portfolio with projects from a wide range of front-end.
   
 - My plans for future is to get more experience as fullstuck. Want to get more in MongoDB and NodeJs and maybe in mobile apps.
 - 📫 How to reach me :
